@@ -3,6 +3,14 @@ function Portfolio() {
   return (
     <section className="my-5">
       <div className="flex-row">
+    <div>
+        <a href="robot.mp4" target="_blank">
+          <img
+            src="robot.png"
+            alt='robot'
+          />
+        </a>          
+    </div>
       <div>
         <a href="https://hippobb.github.io/Module_3/" target="_blank">
           <img
@@ -32,14 +40,6 @@ function Portfolio() {
           <img
             src="project2.png"
             alt='project2'
-          />
-        </a>          
-    </div>
-    <div>
-        <a href="robot.mp4" target="_blank">
-          <img
-            src="robot.png"
-            alt='robot'
           />
         </a>          
     </div>
